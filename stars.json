@@ -1,44 +1,50 @@
 [
   {
+    "full_name": "authorizerdev/authorizer",
+    "stargazers_count": 687,
+    "open_issues_count": 34,
+    "forks_count": 53
+  },
+  {
     "full_name": "LukasMasuch/best-of-react",
-    "stargazers_count": 269,
+    "stargazers_count": 293,
     "open_issues_count": 0,
-    "forks_count": 22
+    "forks_count": 24
   },
   {
     "full_name": "pankod/refine",
-    "stargazers_count": 3064,
-    "open_issues_count": 19,
-    "forks_count": 225
+    "stargazers_count": 3090,
+    "open_issues_count": 20,
+    "forks_count": 228
   },
   {
     "full_name": "OptimalBits/bull",
-    "stargazers_count": 13060,
+    "stargazers_count": 13075,
     "open_issues_count": 181,
-    "forks_count": 1379
+    "forks_count": 1382
   },
   {
     "full_name": "lukemorales/query-key-factory",
-    "stargazers_count": 328,
+    "stargazers_count": 330,
     "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "full_name": "esamattis/react-zorm",
-    "stargazers_count": 345,
+    "stargazers_count": 346,
     "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "full_name": "beekai-oss/little-state-machine",
-    "stargazers_count": 1201,
+    "stargazers_count": 1205,
     "open_issues_count": 5,
     "forks_count": 53
   },
   {
     "full_name": "4lejandrito/next-plausible",
-    "stargazers_count": 281,
-    "open_issues_count": 1,
+    "stargazers_count": 284,
+    "open_issues_count": 3,
     "forks_count": 19
   },
   {
@@ -49,33 +55,33 @@
   },
   {
     "full_name": "hihayk/shaper",
-    "stargazers_count": 551,
+    "stargazers_count": 552,
     "open_issues_count": 21,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 7387,
+    "stargazers_count": 7549,
     "open_issues_count": 12,
-    "forks_count": 299
+    "forks_count": 304
   },
   {
     "full_name": "pmndrs/its-fine",
-    "stargazers_count": 579,
+    "stargazers_count": 592,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "brianlovin/briOS",
-    "stargazers_count": 1626,
+    "stargazers_count": 1627,
     "open_issues_count": 3,
     "forks_count": 166
   },
   {
     "full_name": "twitterdev/twitter-api-typescript-sdk",
-    "stargazers_count": 571,
+    "stargazers_count": 574,
     "open_issues_count": 12,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "ethomson/next-maze",
@@ -85,21 +91,21 @@
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 5712,
+    "stargazers_count": 6350,
     "open_issues_count": 0,
-    "forks_count": 557
+    "forks_count": 616
   },
   {
     "full_name": "omar-dulaimi/prisma-zod-generator",
-    "stargazers_count": 97,
-    "open_issues_count": 6,
-    "forks_count": 10
+    "stargazers_count": 98,
+    "open_issues_count": 7,
+    "forks_count": 12
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 10508,
-    "open_issues_count": 70,
-    "forks_count": 331
+    "stargazers_count": 10529,
+    "open_issues_count": 68,
+    "forks_count": 333
   },
   {
     "full_name": "Tenpi/youtube.ts",
@@ -121,27 +127,27 @@
   },
   {
     "full_name": "webiny/webiny-js",
-    "stargazers_count": 6055,
-    "open_issues_count": 133,
+    "stargazers_count": 6066,
+    "open_issues_count": 134,
     "forks_count": 485
   },
   {
     "full_name": "vercel-labs/hacker-news-slack-bot",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "sofn-xyz/mailing",
-    "stargazers_count": 2695,
-    "open_issues_count": 28,
+    "stargazers_count": 2705,
+    "open_issues_count": 27,
     "forks_count": 45
   },
   {
     "full_name": "LyraSearch/lyra",
-    "stargazers_count": 3351,
-    "open_issues_count": 18,
-    "forks_count": 62
+    "stargazers_count": 3364,
+    "open_issues_count": 19,
+    "forks_count": 64
   },
   {
     "full_name": "QuiiBz/next-international",
@@ -151,14 +157,14 @@
   },
   {
     "full_name": "remeda/remeda",
-    "stargazers_count": 1732,
+    "stargazers_count": 1738,
     "open_issues_count": 27,
     "forks_count": 61
   },
   {
     "full_name": "kiliman/remix-typedjson",
-    "stargazers_count": 197,
-    "open_issues_count": 0,
+    "stargazers_count": 200,
+    "open_issues_count": 1,
     "forks_count": 11
   },
   {
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "vercel/nextjs-subscription-payments",
-    "stargazers_count": 2159,
+    "stargazers_count": 2170,
     "open_issues_count": 21,
-    "forks_count": 350
-  },
-  {
-    "full_name": "saiichihashimoto/sanity-typed-schema-builder",
-    "stargazers_count": 15,
-    "open_issues_count": 5,
-    "forks_count": 1
+    "forks_count": 353
   }
 ]
