@@ -1,37 +1,61 @@
 [
   {
+    "full_name": "trpc/next-13",
+    "stargazers_count": 145,
+    "open_issues_count": 7,
+    "forks_count": 12
+  },
+  {
+    "full_name": "braedynl/TopOTheHourBot",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "elbywan/wretch",
+    "stargazers_count": 3239,
+    "open_issues_count": 0,
+    "forks_count": 68
+  },
+  {
+    "full_name": "vercel/platforms",
+    "stargazers_count": 2337,
+    "open_issues_count": 20,
+    "forks_count": 226
+  },
+  {
     "full_name": "shuding/react-wrap-balancer",
-    "stargazers_count": 1667,
-    "open_issues_count": 1,
-    "forks_count": 21
+    "stargazers_count": 1808,
+    "open_issues_count": 3,
+    "forks_count": 23
   },
   {
     "full_name": "jjenzz/pretty-cache-header",
-    "stargazers_count": 107,
+    "stargazers_count": 112,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "beskar-co/vercel-vscode",
     "stargazers_count": 7,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 1
   },
   {
     "full_name": "beskar-co/glimpse",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
+    "stargazers_count": 9,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "iway1/react-ts-form",
-    "stargazers_count": 1153,
-    "open_issues_count": 5,
-    "forks_count": 9
+    "stargazers_count": 1442,
+    "open_issues_count": 7,
+    "forks_count": 14
   },
   {
     "full_name": "richardscarrott/react-snap-carousel",
-    "stargazers_count": 41,
+    "stargazers_count": 43,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -43,9 +67,9 @@
   },
   {
     "full_name": "ShafSpecs/remix-pwa",
-    "stargazers_count": 220,
+    "stargazers_count": 222,
     "open_issues_count": 7,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "GuptaSiddhant/remix-query",
@@ -56,20 +80,20 @@
   {
     "full_name": "FormidableLabs/groqd",
     "stargazers_count": 53,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "full_name": "emmabostian/developer-portfolios",
-    "stargazers_count": 4182,
-    "open_issues_count": 1,
-    "forks_count": 997
+    "stargazers_count": 4193,
+    "open_issues_count": 2,
+    "forks_count": 998
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 38779,
-    "open_issues_count": 2,
-    "forks_count": 3489
+    "stargazers_count": 38840,
+    "open_issues_count": 5,
+    "forks_count": 3494
   },
   {
     "full_name": "timolins/timo-sh",
@@ -103,7 +127,7 @@
   },
   {
     "full_name": "pixel-point/fontpie",
-    "stargazers_count": 246,
+    "stargazers_count": 249,
     "open_issues_count": 5,
     "forks_count": 3
   },
@@ -121,62 +145,38 @@
   },
   {
     "full_name": "vercel/app-playground",
-    "stargazers_count": 690,
+    "stargazers_count": 712,
     "open_issues_count": 1,
-    "forks_count": 160
+    "forks_count": 167
   },
   {
     "full_name": "joe-bell/cva",
-    "stargazers_count": 1752,
-    "open_issues_count": 2,
-    "forks_count": 33
+    "stargazers_count": 1796,
+    "open_issues_count": 3,
+    "forks_count": 35
   },
   {
     "full_name": "sanity-io/nextjs-blog-cms-sanity-v3",
-    "stargazers_count": 111,
+    "stargazers_count": 115,
     "open_issues_count": 8,
     "forks_count": 31
   },
   {
     "full_name": "vercel-labs/next-fetch",
-    "stargazers_count": 275,
+    "stargazers_count": 276,
     "open_issues_count": 12,
     "forks_count": 11
   },
   {
     "full_name": "blaze-slider/blaze-slider",
-    "stargazers_count": 449,
-    "open_issues_count": 10,
+    "stargazers_count": 450,
+    "open_issues_count": 9,
     "forks_count": 14
   },
   {
     "full_name": "danielroe/fontaine",
-    "stargazers_count": 828,
+    "stargazers_count": 831,
     "open_issues_count": 8,
     "forks_count": 11
-  },
-  {
-    "full_name": "jlalmes/trpc-chrome",
-    "stargazers_count": 160,
-    "open_issues_count": 1,
-    "forks_count": 2
-  },
-  {
-    "full_name": "authorizerdev/authorizer",
-    "stargazers_count": 841,
-    "open_issues_count": 50,
-    "forks_count": 61
-  },
-  {
-    "full_name": "LukasMasuch/best-of-react",
-    "stargazers_count": 364,
-    "open_issues_count": 1,
-    "forks_count": 29
-  },
-  {
-    "full_name": "refinedev/refine",
-    "stargazers_count": 6613,
-    "open_issues_count": 30,
-    "forks_count": 480
   }
 ]
